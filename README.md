@@ -1,8 +1,8 @@
-Ignite Sentiment Analysis
+FlipKart Sentiment Analysis
 
 📌 Overview
 
-Ignite Sentiment Analysis is a deep learning-based project designed to classify sentiment in Flipkart product reviews. Using Natural Language Processing (NLP) and Neural Networks, this model can determine whether a review is positive or negative.
+Flipkart Sentiment Analysis is a deep learning-based project designed to classify sentiment in Flipkart product reviews. Using Natural Language Processing (NLP) and Neural Networks, this model can determine whether a review is positive or negative.
 
 🚀 Features
 
